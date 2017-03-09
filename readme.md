@@ -27,7 +27,7 @@ An additional package to enable features such as exporting data to excel and soc
 <a target="_blank" href="https://imageshack.com/i/poCqgbU0j"><img src="http://imagizer.imageshack.us/v2/640x480q90/924/CqgbU0.jpg" border="0"></a>
 <p>And if we don't fill up one or many field on that form, an error occured.</p>
 <a target="_blank" href="https://imageshack.com/i/ple8qQemj"><img src="http://imagizer.imageshack.us/v2/640x480q90/921/e8qQem.jpg" border="0"></a>
-<p>However, if we success adding data to the database, we would see success notification on table. The action button on table consist show, edit, export to excel and delete on purpose of data modification in table.</p>
+<p>However, if we succeed adding data to the database, we would see success notification on table. The action button on table consist show, edit, export to excel and delete on purpose of data modification in table.</p>
 <a target="_blank" href="https://imageshack.com/i/pm1mCXv5j"><img src="http://imagizer.imageshack.us/v2/640x480q90/922/1mCXv5.jpg" border="0"></a>
 
 ## Conclusion
